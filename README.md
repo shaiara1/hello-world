@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hello there, lives on the earth <3
